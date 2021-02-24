@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Fandengbo&color=blue)
+
 - 🔭 I’m currently working on ... moving from daily consulting to product development (supply chain and sustainability focused)
 - 🌱 I’m currently learning ... how to build our hardware to support my staff doing data science
 - 👯 I’m looking to collaborate on ... anything related to the future of retail, on the sourcing side (not the sales side)
